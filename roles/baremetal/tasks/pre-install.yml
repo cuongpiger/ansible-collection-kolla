@@ -1,5 +1,5 @@
 ---
-- name: Ensure localhost in /etc/hosts
+- name: Make sure localhost in /etc/hosts
   lineinfile:
     dest: /etc/hosts
     regexp: "^127.0.0.1.*"

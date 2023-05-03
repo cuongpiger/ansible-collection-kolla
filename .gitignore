@@ -39,3 +39,4 @@ releasenotes/build
 # Others
 .DS_Store
 .vimrc
+.idea
